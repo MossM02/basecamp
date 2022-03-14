@@ -161,6 +161,7 @@
 
 .cartform {
   width: 45%;
+  min-width: 400px;
   border: solid 1px #cccccc;
   border-radius: 0.3em;
   margin: 10px;
@@ -187,6 +188,8 @@
 
 .cartcontents {
   width: 45%;
+  min-width: 400px;
+  min-height: 300px;
   border: solid 1px #cccccc;
   border-radius: 0.3em;
   margin: 10px;
